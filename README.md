@@ -1,12 +1,20 @@
-# React + Vite
+# AlertaFácil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Nome:** Belton Lee Carr De Muzio Meira  
+**RM:** 560760  
 
-Currently, two official plugins are available:
+## Descrição do Projeto  
+AlertaFácil é um sistema inteligente de alerta para enchentes no Brasil, que utiliza sensores, notificações baseadas em localização e um dashboard para monitoramento em tempo real, visando prevenir tragédias e salvar vidas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades Principais  
+- Monitoramento do nível de água em pontos críticos  
+- Envio de alertas automáticos para usuários e Defesa Civil  
+- Dashboard visual para acompanhamento dos dados  
+- Sistema modular e escalável  
 
-## Expanding the ESLint configuration
+## Link do Repositório  
+[https://github.com/BeltonLeeMeira/webdevGS25](https://github.com/BeltonLeeMeira/webdevGS25)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+Este projeto foi desenvolvido para o Global Solution 2025, focando em soluções tecnológicas para emergências climáticas.
